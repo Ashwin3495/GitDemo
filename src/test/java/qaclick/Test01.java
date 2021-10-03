@@ -19,4 +19,10 @@ public class Test01 {
 
 		System.out.println("Billionare");
 	}
+	public void Z()
+	{		
+		System.out.println("Zappy");
+		System.out.println("Zen");
+		System.out.println("Zap");
+	}
 }

@@ -7,8 +7,7 @@ public class Test03 {
 	@Test
 	public void E()
 	{
-		System.out.println("Expect")	;	
-		System.out.println("Explore");
+		System.out.println("Enhance");
 		System.out.println("Enlightenment");
 		System.out.println("Explore");
 		
@@ -26,11 +25,5 @@ public class Test03 {
 		System.out.println("Giant");
 		System.out.println("Gentlemen");
 		System.out.println("Genius");
-	}
-	public void J()
-	{
-		System.out.println("Joy");
-		System.out.println("Jet");
-		System.out.println("Joking");
 	}
 }
