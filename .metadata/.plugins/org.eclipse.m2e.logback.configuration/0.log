@@ -1,0 +1,19 @@
+2021-10-03 15:27:16,654 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-03 15:32:25,114 [Worker-28: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: qaclick:Maven:0.0.1-SNAPSHOT @ C:\Users\E245979\eclipse-workspace1\GitDemo\pom.xml.
+2021-10-03 15:32:25,588 [Worker-28: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Maven/src/main/java
+2021-10-03 15:32:25,589 [Worker-28: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Maven/src/test/java
+2021-10-03 15:32:25,878 [Worker-28: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2021-10-03 15:32:28,093 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:32:28,093 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E245979\eclipse-workspace1\GitDemo\src\main\resources
+2021-10-03 15:32:28,095 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:32:28,095 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E245979\eclipse-workspace1\GitDemo\src\test\resources
+2021-10-03 15:35:46,344 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:35:46,344 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E245979\eclipse-workspace1\GitDemo\src\main\resources
+2021-10-03 15:35:46,347 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:35:46,347 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E245979\eclipse-workspace1\GitDemo\src\test\resources
+2021-10-03 15:36:05,895 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:36:05,896 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E245979\eclipse-workspace1\GitDemo\src\main\resources
+2021-10-03 15:36:05,898 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:36:05,898 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E245979\eclipse-workspace1\GitDemo\src\test\resources
+2021-10-03 15:36:22,961 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:36:22,962 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\E245979\eclipse-workspace1\GitDemo\src\main\resources
