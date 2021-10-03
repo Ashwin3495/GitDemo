@@ -35,4 +35,13 @@ public class Test02 {
 
 
 	}
+	
+	public void I2()
+	{
+		System.out.println("Intelligent");
+		System.out.println("Internal");
+		System.out.println("Invoke");
+
+
+	}
 }
