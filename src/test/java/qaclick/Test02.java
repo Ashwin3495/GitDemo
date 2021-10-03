@@ -19,4 +19,12 @@ public class Test02 {
 		System.out.println("Determination");
 
 	}
+	public void H()
+	{
+		System.out.println("Health");
+		System.out.println("Hygeine");
+		System.out.println("Hero");
+
+
+	}
 }
